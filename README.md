@@ -1,4 +1,4 @@
-# Lab 37 - Welcome to React, Next.js & TailwindCSS
+# Lab 37+38 - Welcome to React, Next.js & TailwindCSS
 
 ## Author: Dua'a Melhem
 
